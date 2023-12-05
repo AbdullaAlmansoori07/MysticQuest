@@ -8,7 +8,7 @@ Features
 - Random Events: Encounter unexpected events during exploration, leading to various outcomes.
 - Inventory Management: Collect items like Health Potions and Boosts to enhance your abilities.
 - Dynamic Battles: Engage in strategic turn-based battles with different enemies.
-- Customization: Expand and customize the game with additional features based on your preferences.
+
 
 How to Play
 
@@ -44,16 +44,6 @@ How to Play
   If your health reaches 0, the game ends.
   Otherwise, continue your adventure and strive for victory!
 
-- Customization
-  Add More Features:
-  Customize the game by adding new locations, enemies, and items.
-  Implement additional events and quests to enhance the storyline.
-  
-- Visual and Audio Enhancements:
-  Explore opportunities to add ASCII art, sound effects, or music for a richer gaming experience.
-  
-- Contributing
-  If you have ideas for improvements or new features, feel free to contribute! Fork the repository, make your changes, and submit a pull request.
 
 Credits
 Developed by Abdulla Almansoori
