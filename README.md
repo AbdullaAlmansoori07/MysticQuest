@@ -2,13 +2,13 @@ Overview
 Mystic Quest is a text-based adventure RPG implemented in C++. In this game, players embark on a thrilling journey through mystical locations, battle various enemies, and uncover the secrets of the enchanting world.
 
 Features
-Player Progression: Level up by defeating enemies and improve your attack, defense, and health.
-Enemy Variety: Face a range of foes, each with unique characteristics, in turn-based battles.
-Exploration: Explore diverse locations such as dense forests, dark caves, and dungeons.
-Random Events: Encounter unexpected events during exploration, leading to various outcomes.
-Inventory Management: Collect items like Health Potions and Boosts to enhance your abilities.
-Dynamic Battles: Engage in strategic turn-based battles with different enemies.
-Customization: Expand and customize the game with additional features based on your preferences.
+- Player Progression: Level up by defeating enemies and improve your attack, defense, and health.
+- Enemy Variety: Face a range of foes, each with unique characteristics, in turn-based battles.
+- Exploration: Explore diverse locations such as dense forests, dark caves, and dungeons.
+- Random Events: Encounter unexpected events during exploration, leading to various outcomes.
+- Inventory Management: Collect items like Health Potions and Boosts to enhance your abilities.
+- Dynamic Battles: Engage in strategic turn-based battles with different enemies.
+- Customization: Expand and customize the game with additional features based on your preferences.
 
 How to Play
 
